@@ -1,2 +1,2 @@
 # hello-world
-Hello World project to learn GitHub!
+Hello World project to learn GitHub :) !!
